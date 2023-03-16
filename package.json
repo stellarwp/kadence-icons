@@ -1,0 +1,22 @@
+{
+  "name": "@kadence/icons",
+  "version": "1.0.0",
+  "description": "Icons",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellarwp/kadence-icons.git"
+  },
+  "keywords": [
+    "icon"
+  ],
+  "author": "kadencewp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stellarwp/kadence-icons/issues"
+  },
+  "homepage": "https://github.com/stellarwp/kadence-icons#readme"
+}
