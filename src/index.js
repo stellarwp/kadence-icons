@@ -165,3 +165,4 @@ export { default as timeInputIcon } from './block-icons/advanced-form/time'
 
 //Pro Icons
 export { default as dynamicHTMLIcon } from './block-icons/dynamic-html'
+export { default as dynamicListIcon } from './block-icons/dynamic-list'
