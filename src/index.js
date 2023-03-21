@@ -169,6 +169,7 @@ export { default as dynamicListIcon } from './block-icons/dynamic-list'
 export { default as imageOverlayIcon } from './block-icons/image-overlay'
 export { default as modalIcon } from './block-icons/modal'
 export { default as portfolioGridIcon } from './block-icons/portfolio-grid'
+export { default as postGridIcon } from './block-icons/post-grid'
 
 //Pro Icons
 export { default as galMasonry } from './gallery-icons/masonry'
