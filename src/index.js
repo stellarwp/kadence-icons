@@ -163,9 +163,17 @@ export { default as textInputIcon } from './block-icons/advanced-form/text'
 export { default as textareaInputIcon } from './block-icons/advanced-form/textarea'
 export { default as timeInputIcon } from './block-icons/advanced-form/time'
 
-//Pro Icons
+//Pro Block Icons
 export { default as dynamicHTMLIcon } from './block-icons/dynamic-html'
 export { default as dynamicListIcon } from './block-icons/dynamic-list'
 export { default as imageOverlayIcon } from './block-icons/image-overlay'
 export { default as modalIcon } from './block-icons/modal'
 export { default as portfolioGridIcon } from './block-icons/portfolio-grid'
+
+//Pro Icons
+export { default as galMasonry } from './gallery-icons/masonry'
+export { default as galGrid } from './gallery-icons/grid'
+export { default as galCarousel } from './gallery-icons/carousel'
+export { default as galFluid } from './gallery-icons/fluid'
+export { default as galSlider } from './gallery-icons/slider'
+export { default as galtiles } from './gallery-icons/tiles'
