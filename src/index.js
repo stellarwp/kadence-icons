@@ -163,7 +163,7 @@ export { default as textInputIcon } from './block-icons/advanced-form/text'
 export { default as textareaInputIcon } from './block-icons/advanced-form/textarea'
 export { default as timeInputIcon } from './block-icons/advanced-form/time'
 
-//Pro Block Icons
+// Pro Block Icons
 export { default as dynamicHTMLIcon } from './block-icons/dynamic-html'
 export { default as dynamicListIcon } from './block-icons/dynamic-list'
 export { default as imageOverlayIcon } from './block-icons/image-overlay'
@@ -171,10 +171,14 @@ export { default as modalIcon } from './block-icons/modal'
 export { default as portfolioGridIcon } from './block-icons/portfolio-grid'
 export { default as postGridIcon } from './block-icons/post-grid'
 
-//Pro Icons
-export { default as galMasonry } from './gallery-icons/masonry'
-export { default as galGrid } from './gallery-icons/grid'
-export { default as galCarousel } from './gallery-icons/carousel'
-export { default as galFluid } from './gallery-icons/fluid'
-export { default as galSlider } from './gallery-icons/slider'
-export { default as galtiles } from './gallery-icons/tiles'
+// Post Grid Layout Icons
+export { default as postVirtueIcon } from './block-icons/post-grid/layout/virtue'
+export { default as postBoldIcon } from './block-icons/post-grid/layout/bold'
+export { default as postAscendIcon } from './block-icons/post-grid/layout/ascend'
+export { default as postListIcon } from './block-icons/post-grid/layout/list'
+
+// Pro Misc Icons
+export { default as categoriesIcon } from './categories'
+export { default as tagsIcon } from './tags'
+export { default as userIcon } from './user'
+export { default as commentsIcon } from './comments'
