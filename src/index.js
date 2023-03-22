@@ -171,6 +171,7 @@ export { default as modalIcon } from './block-icons/modal'
 export { default as portfolioGridIcon } from './block-icons/portfolio-grid'
 export { default as postGridIcon } from './block-icons/post-grid'
 export { default as productCarouselIcon } from './block-icons/product-carousel'
+export { default as sliderIcon } from './block-icons/slider'
 
 // Post Grid Layout Icons
 export { default as postVirtueIcon } from './block-icons/post-grid/layout/virtue'
