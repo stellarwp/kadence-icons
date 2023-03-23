@@ -173,6 +173,7 @@ export { default as postGridIcon } from './block-icons/post-grid'
 export { default as productCarouselIcon } from './block-icons/product-carousel'
 export { default as sliderIcon } from './block-icons/slider'
 export { default as splitContentIcon } from './block-icons/split-content'
+export { default as userInfoIcon } from './block-icons/user-info'
 
 // Post Grid Layout Icons
 export { default as postVirtueIcon } from './block-icons/post-grid/layout/virtue'
