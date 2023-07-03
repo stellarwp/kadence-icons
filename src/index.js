@@ -86,6 +86,7 @@ export { default as variationImageContentIcon } from './block-icons/repeater/var
 export { default as variationSplitContentIcon } from './block-icons/repeater/variation-split-content'
 export { default as variationTextListIcon } from './block-icons/repeater/variation-text-list'
 export { default as repeaterIcon } from './block-icons/repeater/icon'
+export { default as layoutIcon } from './layout'
 
 // Countdown Block
 export { default as countdownSectionIcon } from './block-icons/countdown-block/section'
