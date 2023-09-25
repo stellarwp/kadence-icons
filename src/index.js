@@ -195,5 +195,5 @@ export { default as queryBlockIcon } from './block-icons/query-block/query-block
 export { default as queryFilterDateIcon } from './block-icons/query-block/filter-date'
 export { default as queryFilterDropdownIcon } from './block-icons/query-block/filter-dropdown'
 export { default as queryNoResultsIcon } from './block-icons/query-block/no-results'
-export { default as queryPaginationIocn } from './block-icons/query-block/pagination'
+export { default as queryPaginationIcon } from './block-icons/query-block/pagination'
 export { default as queryCardIcon } from './block-icons/query-block/query-card'
