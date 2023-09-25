@@ -189,3 +189,11 @@ export { default as categoriesIcon } from './categories'
 export { default as tagsIcon } from './tags'
 export { default as userIcon } from './user'
 export { default as commentsIcon } from './comments'
+
+// Pro Query Block
+export { default as queryBlockIcon } from './block-icons/query-block/query-block'
+export { default as queryFilterDateIcon } from './block-icons/query-block/filter-date'
+export { default as queryFilterDropdownIcon } from './block-icons/query-block/filter-dropdown'
+export { default as queryNoResultsIcon } from './block-icons/query-block/no-results'
+export { default as queryPaginationIocn } from './block-icons/query-block/pagination'
+export { default as queryCardIcon } from './block-icons/query-block/query-card'
