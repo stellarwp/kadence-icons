@@ -197,3 +197,5 @@ export { default as queryFilterDropdownIcon } from './block-icons/query-block/fi
 export { default as queryNoResultsIcon } from './block-icons/query-block/no-results'
 export { default as queryPaginationIcon } from './block-icons/query-block/pagination'
 export { default as queryCardIcon } from './block-icons/query-block/query-card'
+export { default as queryFilterCheckbox } from './block-icons/query-block/filter-checkbox'
+export { default as queryFilterSearch } from './block-icons/query-block/filter-search'
