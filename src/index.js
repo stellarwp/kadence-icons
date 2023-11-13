@@ -80,6 +80,14 @@ export { default as accord2Icon } from './block-icons/accordion-block/accord-2'
 export { default as accord3Icon } from './block-icons/accordion-block/accord-3'
 export { default as accord4Icon } from './block-icons/accordion-block/accord-4'
 
+// Repeater Block
+export { default as variationDoubleListIcon } from './block-icons/repeater/variation-double-list'
+export { default as variationImageContentIcon } from './block-icons/repeater/variation-image-content'
+export { default as variationSplitContentIcon } from './block-icons/repeater/variation-split-content'
+export { default as variationTextListIcon } from './block-icons/repeater/variation-text-list'
+export { default as repeaterIcon } from './block-icons/repeater/icon'
+export { default as layoutIcon } from './layout'
+
 // Countdown Block
 export { default as countdownSectionIcon } from './block-icons/countdown-block/section'
 export { default as countdownInnerIcon } from './block-icons/countdown-block/inner-countdown'
