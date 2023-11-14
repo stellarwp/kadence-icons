@@ -206,6 +206,7 @@ export { default as queryNoResultsIcon } from './block-icons/query-block/no-resu
 export { default as queryPaginationIcon } from './block-icons/query-block/pagination'
 export { default as queryCardIcon } from './block-icons/query-block/query-card'
 export { default as queryFilterCheckbox } from './block-icons/query-block/filter-checkbox'
+export { default as queryFilterButtons } from './block-icons/query-block/filter-buttons'
 export { default as queryFilterSearch } from './block-icons/query-block/filter-search'
 export { default as queryTemplateCardBio } from './block-icons/query-block/templates/card-bio'
 export { default as queryTemplateCardImage } from './block-icons/query-block/templates/card-image'
