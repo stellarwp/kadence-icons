@@ -220,3 +220,5 @@ export { default as queryTemplateQuerySidebarLeftSingle } from './block-icons/qu
 export { default as queryTemplateQuerySimpleFilters } from './block-icons/query-block/templates/query-simple-filters'
 export { default as queryTemplateQuerySidebarRight } from './block-icons/query-block/templates/query-sidebar-right'
 export { default as queryTemplateQueryNoFilters } from './block-icons/query-block/templates/query-no-filters'
+export { default as queryFilterRange } from './block-icons/query-block/filter-range'
+export { default as queryFilterWooAttribute } from './block-icons/query-block/filter-woo-attribute'
