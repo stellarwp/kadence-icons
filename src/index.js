@@ -222,3 +222,4 @@ export { default as queryTemplateQuerySidebarRight } from './block-icons/query-b
 export { default as queryTemplateQueryNoFilters } from './block-icons/query-block/templates/query-no-filters'
 export { default as queryFilterRange } from './block-icons/query-block/filter-range'
 export { default as queryFilterWooAttribute } from './block-icons/query-block/filter-woo-attribute'
+export { default as queryFilterRating } from './block-icons/query-block/filter-rating'
