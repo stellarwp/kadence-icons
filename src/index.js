@@ -223,3 +223,9 @@ export { default as queryTemplateQueryNoFilters } from './block-icons/query-bloc
 export { default as queryFilterRange } from './block-icons/query-block/filter-range'
 export { default as queryFilterWooAttribute } from './block-icons/query-block/filter-woo-attribute'
 export { default as queryFilterRating } from './block-icons/query-block/filter-rating'
+
+// Navigation & Header Block
+export { default as headerBlockIcon } from './block-icons/header'
+export { default as navigationBlockIcon } from './block-icons/navigation/block-icon'
+export { default as navigationMegaMenuIcon } from './block-icons/navigation/mega-menu'
+export { default as navigationItemIcon } from './block-icons/navigation/navigation-item'
