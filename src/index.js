@@ -50,7 +50,18 @@ export { default as copyStyles } from './copy-styles'
 export { default as paste } from './paste'
 export { default as click } from './click'
 export { default as dynamicIcon } from './dynamic'
-export { default as linkIcon } from './link'
+export { default as dynamic } from './dynamic';
+export { default as aiIcon } from './ai';
+export { default as aiSettings } from './ai-settings';
+export { default as autoFix } from './auto-fix';
+export { default as subject } from './subject';
+export { default as notes } from './notes';
+export { default as playlist } from './playlist';
+export { default as check } from './check';
+export { default as chatBubble } from './chat-bubble';
+export { default as eye } from './eye';
+export { default as tooltip } from './tooltip';
+
 
 // Block Icons
 export { default as restaurantMenuIcon } from './block-icons/restaurant-menu'
@@ -172,6 +183,25 @@ export { default as selectInputIcon } from './block-icons/advanced-form/select'
 export { default as textInputIcon } from './block-icons/advanced-form/text'
 export { default as textareaInputIcon } from './block-icons/advanced-form/textarea'
 export { default as timeInputIcon } from './block-icons/advanced-form/time'
+export { default as captchaIcon } from './captcha'
+export {
+	formTemplateContactIcon,
+	formTemplateContactAdvancedIcon,
+	formTemplateContactInFieldIcon,
+	formTemplateContactDarkIcon,
+	formTemplateContactUnderlineIcon,
+	formTemplateSubscribeIcon,
+	formTemplateSubscribeAdvancedIcon,
+	formTemplateContactAdvancedDarkIcon,
+	formTemplateContactAdvancedUnderlineIcon,
+	formTemplateContactAdvancedInFieldIcon,
+	formTemplateSubscribeDarkIcon,
+	formTemplateSubscribeUnderlineIcon,
+	formTemplateSubscribeInFieldIcon,
+	formTemplateSubscribeAdvancedDarkIcon,
+	formTemplateSubscribeAdvancedUnderlineIcon,
+	formTemplateSubscribeAdvancedInFieldIcon,
+} from './block-icons/advanced-form/templates'
 
 // Pro Block Icons
 export { default as dynamicHTMLIcon } from './block-icons/dynamic-html'
@@ -197,6 +227,7 @@ export { default as categoriesIcon } from './categories'
 export { default as tagsIcon } from './tags'
 export { default as userIcon } from './user'
 export { default as commentsIcon } from './comments'
+export { default as linkIcon } from './link'
 
 // Pro Query Block
 export { default as queryBlockIcon } from './block-icons/query-block/query-block'
@@ -229,3 +260,10 @@ export { default as headerBlockIcon } from './block-icons/header'
 export { default as navigationBlockIcon } from './block-icons/navigation/block-icon'
 export { default as navigationMegaMenuIcon } from './block-icons/navigation/mega-menu'
 export { default as navigationItemIcon } from './block-icons/navigation/navigation-item'
+
+// Progress Bar Icons
+export { default as progressIcon } from './block-icons/progress-bar/primary-icon'
+export { default as circleBar } from './block-icons/progress-bar/circle-bar-layout'
+export { default as lineBar } from './block-icons/progress-bar/line-bar-layout'
+export { default as semiCircleBar } from './block-icons/progress-bar/semi-circle-bar-layout'
+export { default as lineMask } from './block-icons/progress-bar/line-mask-layout'
