@@ -61,6 +61,7 @@ export { default as check } from './check';
 export { default as chatBubble } from './chat-bubble';
 export { default as eye } from './eye';
 export { default as tooltip } from './tooltip';
+export { default as duplicate } from './duplicate';
 
 
 // Block Icons
