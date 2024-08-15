@@ -4,7 +4,8 @@
   "description": "Icons",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir lib"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/stellarwp/kadence-icons/issues"
   },
-  "homepage": "https://github.com/stellarwp/kadence-icons#readme"
+  "homepage": "https://github.com/stellarwp/kadence-icons#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.24.8",
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/preset-react": "^7.24.7"
+  }
 }
