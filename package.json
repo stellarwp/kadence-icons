@@ -2,10 +2,9 @@
   "name": "@kadence/icons",
   "version": "1.0.1",
   "description": "Icons",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src --out-dir lib"
+    "build": "babel src --out-dir dist"
   },
   "repository": {
     "type": "git",
