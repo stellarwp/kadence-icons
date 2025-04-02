@@ -293,3 +293,12 @@ export { default as tableDataBlockIcon } from './block-icons/table/table-data'
 // Arrows
 export { default as ArrowUp } from './arrow-up';
 export { default as ArrowDown } from './arrow-down';
+
+// Text Orientation
+export { default as horizontalTextOrientationIcon } from './text-orientation/horizontal';
+export { default as stackedTextOrientationIcon } from './text-orientation/stacked-vertical';
+export { default as sidewaysDownTextOrientationIcon } from './text-orientation/sideways-down';
+export { default as sidewaysUpTextOrientationIcon } from './text-orientation/sideways-up';
+
+// Shadow Presets
+export { default as shadowPresetNone } from './shadow-presets/no-shadow';
