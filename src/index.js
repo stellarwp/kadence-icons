@@ -303,3 +303,6 @@ export { default as sidewaysUpTextOrientationIcon } from './text-orientation/sid
 
 // Shadow Presets
 export { default as shadowPresetNone } from './shadow-presets/no-shadow';
+
+// Marquee
+export { default as marqueeIcon } from './block-icons/marquee';
