@@ -1,6 +1,6 @@
 {
 	"name": "@kadence/icons",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"description": "Shared Kadence SVG icons for WordPress block plugins.",
 	"main": "dist/cjs/index.js",
 	"module": "dist/esm/index.js",
