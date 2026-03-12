@@ -292,7 +292,7 @@ export { default as tableRowBlockIcon } from './block-icons/table/table-row'
 export { default as tableDataBlockIcon } from './block-icons/table/table-data'
 	
 // Vector
-export { default as VectorBlockIcon } from './block-icons/vector'
+export { default as vectorBlockIcon } from './block-icons/vector'
 
 // Pro
 export { default as proIcon } from './pro'
